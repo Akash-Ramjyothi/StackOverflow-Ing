@@ -13,9 +13,6 @@ https://api.stackexchange.com/2.2/questions?key=ZiXCZbWaOwnDgpVT9Hx8IA((&order=d
 ## 📽 Sample Demo:
 https://user-images.githubusercontent.com/54114888/211217445-eb928bf3-d216-4d56-9665-16c185320ba6.mp4
 
-## 🌎 Released Android Application:
-https://github.com/Akash-Ramjyothi/Meal-App/raw/master/APK/app-debug.apk
-
 ## 🏗 Built With:
 - MVVM Architecture.
 - Kotlin Programming language.
