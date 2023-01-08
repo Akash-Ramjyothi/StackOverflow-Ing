@@ -5,11 +5,10 @@
 </p>
 
 ## 📜 Description:
-A Collaborative Code editor for pair programming. The **"a-Live Coder"** is a code pair platform where users can share an interactive editor and write code together. It has language support for C++, Java and python. Video calling is also provided within this application. The project is heavily inspired from HackerRank's flagship product CodePair.
+Developed a client-side application that Fetches and Displays a list of `StackOverflow questions`. User can fetch the latest data easily and can also `Filter` the displayed Questions based on avalable `tags` and can Search for specific questions based on `Title`. Also can easily see the `average view count` and `average answer count`.
 
 ## 📽 Sample Demo:
-
-
+https://user-images.githubusercontent.com/54114888/211217445-eb928bf3-d216-4d56-9665-16c185320ba6.mp4
 
 ## 🌎 Deployed Website:
 https://a-live-coder.netlify.app/
